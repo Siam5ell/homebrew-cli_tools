@@ -19,6 +19,6 @@ class PomoCli < Formula
   end
 
   test do
-    system "#{bin}/yourtool"
+    system "#{bin}/pomo_cli"
   end
 end
