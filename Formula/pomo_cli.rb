@@ -1,4 +1,4 @@
-class Pomo_cli < Formula
+class PomoCli < Formula
   desc "A basic CLI tool for pomodoro timer made in C++ with ncurses"
   homepage "https://github.com/jishnu/pomo_cli"
 
