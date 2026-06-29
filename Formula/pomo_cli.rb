@@ -3,7 +3,7 @@ class PomoCli < Formula
   homepage "https://github.com/siam5ell/pomo_cli"
 
   url "https://github.com/siam5ell/pomo_cli/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "31b15beabf3669912c3079c18e748544582aafc3724a58728fe08f2679c714ff"
 
   license "MIT"
 
